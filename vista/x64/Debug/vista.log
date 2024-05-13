@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Elicho\source\repos\sl_umg\vista\main.cpp(5,21): error C2059: error de sintaxis: ';'
+C:\Users\Elicho\source\repos\sl_umg\vista\main.cpp(7,1): error C2059: error de sintaxis: '}'
+C:\Users\Elicho\source\repos\sl_umg\vista\main.cpp(7,1): error C2143: error de sintaxis: falta ';' delante de '}'
